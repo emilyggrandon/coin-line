@@ -1,0 +1,221 @@
+/* screen - page3aboutus */
+
+.page3aboutus {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 3072px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.page3aboutus .overlap-group3 {
+  height: 3454px;
+  position: relative;
+  width: 1444px;
+}
+
+.page3aboutus .bg {
+  height: 3454px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.page3aboutus .overlap-group {
+  align-items: center;
+  background-color: var(--loulou);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 154px;
+  padding: 26.2px 0;
+  position: absolute;
+  top: 2918px;
+  width: 1440px;
+}
+
+.page3aboutus .shop {
+  letter-spacing: 0;
+  margin-left: 1.0px;
+  min-height: 27px;
+  text-align: center;
+  width: 117px;
+}
+
+.page3aboutus .about-us {
+  letter-spacing: 0;
+  margin-top: 24px;
+  min-height: 27px;
+  text-align: center;
+  width: 212px;
+}
+
+.page3aboutus .what-to-do {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 118px;
+  min-height: 669px;
+  position: absolute;
+  top: 2026px;
+  width: 1290px;
+}
+
+.page3aboutus .title {
+  color: var(--white);
+  font-family: var(--font-family-futura-bold);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  min-height: 121px;
+  min-width: 1247px;
+  text-align: center;
+}
+
+.page3aboutus .image-3 {
+  align-self: flex-end;
+  height: 488px;
+  margin-right: 2px;
+  margin-top: 60px;
+  width: 686px;
+}
+
+.page3aboutus .history {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 39px;
+  min-height: 640px;
+  position: absolute;
+  top: 1093px;
+  width: 1190px;
+}
+
+.page3aboutus .title-1 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-right: 2px;
+  min-height: 133px;
+  min-width: 968px;
+  text-align: center;
+}
+
+.page3aboutus .brooklyn-history {
+  height: 457px;
+  margin-top: 50px;
+  object-fit: cover;
+  width: 685px;
+}
+
+.page3aboutus .overlap-group1 {
+  background-image: url(../img/brooklyn-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1024px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.page3aboutus .brooklyn {
+  height: 1024px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.page3aboutus .back-contrast {
+  background-color: #000000a6;
+  height: 621px;
+  left: 0;
+  position: absolute;
+  top: 258px;
+  width: 1440px;
+}
+
+.page3aboutus .title-2 {
+  left: 286px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 292px;
+}
+
+.page3aboutus .overlap-group2 {
+  align-items: center;
+  background-color: var(--loulou-2);
+  display: flex;
+  height: 125px;
+  left: 0;
+  min-width: 1440px;
+  padding: 0 27px;
+  position: absolute;
+  top: 0;
+}
+
+.page3aboutus .about-us-1 {
+  letter-spacing: 0;
+  margin-top: 1.02px;
+  min-height: 38px;
+  opacity: 0.5;
+  text-align: center;
+  width: 232px;
+}
+
+.page3aboutus .logo {
+  height: 103px;
+  margin-left: 379px;
+  object-fit: cover;
+  width: 161px;
+}
+
+.page3aboutus .shop-1 {
+  letter-spacing: 0;
+  margin-bottom: 8.97px;
+  margin-left: 462px;
+  min-height: 32px;
+  text-align: center;
+  width: 130px;
+}
+
+.page3aboutus .welcome-to-coin-line {
+  color: var(--white);
+  font-family: var(--font-family-futura-bold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  left: 88px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 440px;
+  width: 1271px;
+}
+
+.page3aboutus .if-you-are-unfamilia {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  left: 761px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1231px;
+  width: 640px;
+}
+
+.page3aboutus .surname {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 42px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 2423px;
+  width: 670px;
+}

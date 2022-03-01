@@ -1,0 +1,286 @@
+/* screen - page2shop */
+
+.page2shop {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 2424px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.page2shop .overlap-group5 {
+  height: 3232px;
+  position: relative;
+  width: 1448px;
+}
+
+.page2shop .bg {
+  height: 3232px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.page2shop .merch {
+  left: 528px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 874px;
+}
+
+.page2shop .ticketlist {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 2235px;
+  position: absolute;
+  top: 189px;
+  width: 1448px;
+}
+
+.page2shop .tickets {
+  letter-spacing: 0;
+  margin-right: 2.0px;
+  min-height: 133px;
+  min-width: 414px;
+  text-align: center;
+}
+
+.page2shop .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 4.0px;
+  margin-top: 55px;
+  min-width: 1282px;
+}
+
+.page2shop .overlap-group2 {
+  align-items: flex-start;
+  background-color: #3a91efcc;
+  border-radius: 26px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 365px;
+  min-width: 368px;
+  padding: 73px 47px;
+}
+
+.page2shop .standard-ticket-19999 {
+  letter-spacing: 0;
+  min-height: 214px;
+  text-align: center;
+  width: 267px;
+}
+
+.page2shop .overlap-group1 {
+  align-items: flex-start;
+  background-color: #ff960ecc;
+  border-radius: 24px;
+  display: flex;
+  height: 365px;
+  margin-left: 89px;
+  min-width: 368px;
+  padding: 73px 60px;
+}
+
+.page2shop .vip-ticket-39999 {
+  letter-spacing: 0;
+  min-height: 214px;
+  text-align: center;
+  width: 237px;
+}
+
+.page2shop .overlap-group3 {
+  align-items: flex-start;
+  background-color: #e65084cc;
+  border-radius: 25px;
+  display: flex;
+  height: 365px;
+  margin-left: 89px;
+  min-width: 368px;
+  padding: 73px 31px;
+}
+
+.page2shop .backstage-pass-69999 {
+  letter-spacing: 0;
+  min-height: 214px;
+  text-align: center;
+  width: 300px;
+}
+
+.page2shop .overlap-group {
+  align-items: center;
+  background-color: var(--loulou);
+  display: flex;
+  flex-direction: column;
+  margin-right: 8.0px;
+  margin-top: 1528px;
+  min-height: 154px;
+  padding: 26.2px 0;
+  width: 1440px;
+}
+
+.page2shop .shop {
+  letter-spacing: 0;
+  margin-left: 1.0px;
+  min-height: 27px;
+  text-align: center;
+  width: 117px;
+}
+
+.page2shop .about-us {
+  letter-spacing: 0;
+  margin-top: 24px;
+  min-height: 27px;
+  text-align: center;
+  width: 212px;
+}
+
+.page2shop .overlap-group4 {
+  align-items: center;
+  background-color: var(--loulou-2);
+  display: flex;
+  height: 125px;
+  left: 0;
+  min-width: 1440px;
+  padding: 0 27px;
+  position: absolute;
+  top: 0;
+}
+
+.page2shop .about-us-1 {
+  letter-spacing: 0;
+  margin-top: 1.02px;
+  min-height: 38px;
+  text-align: center;
+  width: 232px;
+}
+
+.page2shop .logo {
+  height: 103px;
+  margin-left: 379px;
+  object-fit: cover;
+  width: 161px;
+}
+
+.page2shop .shop-1 {
+  letter-spacing: 0;
+  margin-bottom: 8.97px;
+  margin-left: 462px;
+  min-height: 32px;
+  opacity: 0.5;
+  text-align: center;
+  width: 130px;
+}
+
+.page2shop .x02-01-hat1-1 {
+  height: 364px;
+  left: 539px;
+  object-fit: cover;
+  position: absolute;
+  top: 1104px;
+  width: 366px;
+}
+
+.page2shop .x02-03-shirt4-1 {
+  height: 367px;
+  left: 537px;
+  object-fit: cover;
+  position: absolute;
+  top: 1670px;
+  width: 367px;
+}
+
+.page2shop .x02-05-1 {
+  height: 367px;
+  left: 992px;
+  object-fit: cover;
+  position: absolute;
+  top: 1669px;
+  width: 367px;
+}
+
+.page2shop .x02-04-sticker-1 {
+  height: 366px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 1671px;
+  width: 367px;
+}
+
+.page2shop .x02-06-1 {
+  height: 363px;
+  left: 85px;
+  object-fit: cover;
+  position: absolute;
+  top: 1106px;
+  width: 365px;
+}
+
+.page2shop .x02-02-1 {
+  height: 368px;
+  left: 994px;
+  object-fit: cover;
+  position: absolute;
+  top: 1104px;
+  width: 367px;
+}
+
+.page2shop .price {
+  left: 594px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 2082px;
+  width: 229px;
+}
+
+.page2shop .price-1 {
+  left: 166px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 2082px;
+  width: 187px;
+}
+
+.page2shop .price-2 {
+  left: 1064px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 1501px;
+  width: 227px;
+}
+
+.page2shop .price-3 {
+  left: 1064px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 2082px;
+  width: 226px;
+}
+
+.page2shop .price-4 {
+  left: 185px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 1503px;
+  width: 177px;
+}
+
+.page2shop .price-5 {
+  left: 592px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 1506px;
+  width: 213px;
+}

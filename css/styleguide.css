@@ -1,0 +1,63 @@
+:root { 
+  --black: #000000;
+  --black-2: #000000cc;
+  --loulou: #432042cc;
+  --loulou-2: #432042e6;
+  --white: #ffffff;
+ 
+  --font-size-l: 50px;
+  --font-size-m: 40px;
+  --font-size-s: 38px;
+  --font-size-xl: 60px;
+  --font-size-xs: 30px;
+  --font-size-xxl: 91px;
+  --font-size-xxxl: 100px;
+ 
+  --font-family-futura-bold: "Futura-Bold", Helvetica;
+  --font-family-futura-medium: "Futura-Medium", Helvetica;
+  --font-family-galvji-bold: "Galvji-Bold", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+}
+.futura-medium-white-40px {
+  color: var(--white);
+  font-family: var(--font-family-futura-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.galvji-bold-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-galvji-bold);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.galvji-bold-white-50px {
+  color: var(--white);
+  font-family: var(--font-family-galvji-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.futura-bold-white-100px {
+  color: var(--white);
+  font-family: var(--font-family-futura-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.futura-bold-white-50px {
+  color: var(--white);
+  font-family: var(--font-family-futura-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.border-3px-black-2 {
+  border: 3px solid var(--black-2);
+}
