@@ -82,6 +82,7 @@
   margin-right: 2px;
   margin-top: 60px;
   width: 686px;
+  position: fixed;
 }
 
 .page3aboutus .history {
@@ -167,6 +168,7 @@
   opacity: 0.5;
   text-align: center;
   width: 232px;
+  positon: fixed;
 }
 
 .page3aboutus .logo {
@@ -174,6 +176,7 @@
   margin-left: 379px;
   object-fit: cover;
   width: 161px;
+  positon: fixed;
 }
 
 .page3aboutus .shop-1 {
@@ -183,6 +186,7 @@
   min-height: 32px;
   text-align: center;
   width: 130px;
+  positon: fixed;
 }
 
 .page3aboutus .welcome-to-coin-line {
@@ -192,7 +196,7 @@
   font-weight: 700;
   left: 88px;
   letter-spacing: 0;
-  position: absolute;
+  positon: fixed;
   text-align: center;
   top: 440px;
   width: 1271px;
