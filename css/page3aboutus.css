@@ -7,6 +7,7 @@
   height: 3072px;
   overflow: hidden;
   width: 1440px;
+  position: fixed;
 }
 
 .page3aboutus .overlap-group3 {
@@ -134,7 +135,7 @@
   background-color: #000000a6;
   height: 621px;
   left: 0;
-  position: absolute;
+  position: fixed;
   top: 258px;
   width: 1440px;
 }
