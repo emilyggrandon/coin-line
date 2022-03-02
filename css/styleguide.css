@@ -32,6 +32,7 @@
   font-size: var(--font-size-xs);
   font-style: normal;
   font-weight: 700;
+  position: fixed;
 }
 
 .galvji-bold-white-50px {
