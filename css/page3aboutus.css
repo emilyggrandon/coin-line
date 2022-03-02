@@ -116,7 +116,7 @@
   background-size: cover;
   height: 1024px;
   left: 0;
-  position: absolute;
+  position: fixed;
   top: 0;
   width: 1440px;
 }
