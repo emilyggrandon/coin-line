@@ -1,0 +1,195 @@
+.page3aboutus {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 3072px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.overlap-group3-3 {
+  height: 3454px;
+  position: relative;
+  width: 1444px;
+}
+
+.overlap-group-3 {
+  align-items: center;
+  background-color: var(--loulou-2);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 154px;
+  padding: 26.2px 0;
+  position: absolute;
+  top: 2918px;
+  width: 1440px;
+}
+
+.shop-3 {
+  letter-spacing: 0;
+  margin-left: 1.0px;
+  min-height: 27px;
+  text-align: center;
+  width: 117px;
+}
+
+.about-us-3 {
+  letter-spacing: 0;
+  margin-top: 24px;
+  min-height: 27px;
+  text-align: center;
+  width: 212px;
+}
+
+.what-to-do-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 118px;
+  min-height: 669px;
+  position: absolute;
+  top: 2026px;
+  width: 1290px;
+}
+
+.title-4 {
+  letter-spacing: 0;
+  min-height: 121px;
+  min-width: 1247px;
+  text-align: center;
+}
+
+.image-3 {
+  align-self: flex-end;
+  height: 488px;
+  margin-right: 2px;
+  margin-top: 60px;
+  width: 686px;
+}
+
+.history-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 39px;
+  min-height: 640px;
+  position: absolute;
+  top: 1093px;
+  width: 1190px;
+}
+
+.title-5 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-right: 2px;
+  min-height: 133px;
+  min-width: 968px;
+  text-align: center;
+}
+
+.brooklyn-history {
+  height: 457px;
+  margin-top: 50px;
+  object-fit: cover;
+  width: 685px;
+}
+
+.overlap-group1-2 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1024px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.brooklyn {
+  height: 1024px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.back-contrast-1 {
+  background-color: var(--black-3);
+  height: 621px;
+  left: 0;
+  position: absolute;
+  top: 258px;
+  width: 1440px;
+}
+
+.title-6 {
+  left: 286px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 292px;
+}
+
+.overlap-group2-2 {
+  align-items: center;
+  background-color: var(--loulou);
+  display: flex;
+  height: 125px;
+  left: 0;
+  min-width: 1440px;
+  padding: 0 27px;
+  position: absolute;
+  top: 0;
+}
+
+.about-us-4 {
+  letter-spacing: 0;
+  margin-top: 1.02px;
+  min-height: 38px;
+  opacity: 0.5;
+  text-align: center;
+  width: 232px;
+}
+
+.logo-3 {
+  height: 103px;
+  margin-left: 379px;
+  object-fit: cover;
+  width: 161px;
+}
+
+.shop-4 {
+  letter-spacing: 0;
+  margin-bottom: 8.97px;
+  margin-left: 462px;
+  min-height: 32px;
+  text-align: center;
+  width: 130px;
+}
+
+.welcome-to-coin-line-1 {
+  left: 88px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 440px;
+  width: 1271px;
+}
+
+.if-you-are-unfamilia {
+  left: 761px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1231px;
+  width: 640px;
+}
+
+.surname-1 {
+  left: 42px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 2423px;
+  width: 670px;
+}
+

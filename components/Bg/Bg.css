@@ -1,0 +1,28 @@
+.filter {
+  width: 100%;
+}
+
+.filter.bg-1 {
+  height: 3454px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.filter.bg-2 {
+  height: 3232px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.filter.bg-3 {
+  height: 3461px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+

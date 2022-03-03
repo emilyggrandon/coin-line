@@ -1,15 +1,19 @@
 {
-  "name": "learn-heroku",
-  "version": "1.0.1",
-  "dependencies": {
-    "http-server": "^0.9.0",
-    "live-server": "^1.2.0"
-  },
-  "engines": {
-    "node": "6.10.x"
-  },
+  "name": "react-package",
   "scripts": {
-    "start": "node node_modules/.bin/http-server",
-    "local": "node_modules/.bin/live-server --port=8080"
+    "start": "parcel index.html",
+    "build": "parcel build index.html --public-url ./"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.4",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "5.2.0", 
+    "react": "^17.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/preset-env": "^7.12.7",
+    "@babel/preset-react": "^7.12.7",
+    "parcel-plugin-static-files-copy": "^2.5.0"
   }
 }
